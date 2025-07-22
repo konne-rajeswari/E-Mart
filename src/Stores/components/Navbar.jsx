@@ -12,8 +12,7 @@ const { cartItems } = useCart()
     <div className='navSection' >
         <Link to='/' className="custom-link">
         <div className="title">
-            <h2>E-Mart</h2>
-        </div>
+            <h2>E-Mart</h2>apparao        </div>
         </Link>
         <div className='search'>
             <input type='text' placeholder='search...' />
